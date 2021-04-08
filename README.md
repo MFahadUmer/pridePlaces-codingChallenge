@@ -2,12 +2,10 @@
 
 This challenge is used to test candidates knowledge of front-end web-development. 
 
-REQUIREMENTS <br>
+<h3>REQUIREMENTS</h3> <br>
 Complete the following instructions using React or vanilla js(bonus points for using nextjs framework).<br>
 Push your work to a public repository.
-
-INSTRUCTIONS 
-
+<h3>INSTRUCTIONS</h3>
 Use this API
 https://jsonplaceholder.typicode.com/
 to fetch posts.
@@ -25,7 +23,7 @@ The modal's close button should close the modal.
 Clicking outside of the modal should also close the modal. 
 How you style the modal is up to you. 
 
-HINTS: 
+<h3>HINTS:</h3>
 - Keep different screen sizes in mind 
 - Leave comments 
 - read the API docs -> https://jsonplaceholder.typicode.com/guide/
