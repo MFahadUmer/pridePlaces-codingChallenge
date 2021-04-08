@@ -3,7 +3,7 @@
 This challenge is used to test candidates knowledge of front-end web-development. 
 
 REQUIREMENTS <br>
-Complete the following instructions using React or vanilla js(bonus points for using nextjs framework).
+Complete the following instructions using React or vanilla js(bonus points for using nextjs framework).<br>
 Push your work to a public repository.
 
 INSTRUCTIONS 
