@@ -1,0 +1,57 @@
+.postButton {
+  background: none;
+  border: none;
+  margin: 5px;
+  font-weight: bold;
+  font-size: 24px;
+  cursor: pointer;
+  padding: 10px;
+}
+
+.closeModalButtonDiv {
+  text-align: right;
+}
+
+.modalTitle {
+  margin-top: 20px;
+  color: #092758;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.closeModalButton {
+  bottom: 0;
+  color: #092758;
+  font-size: 18px;
+  border-radius: 10px;
+  font-weight: bold;
+  padding: 10px 25px;
+}
+
+.postButton:hover {
+  background: #092758;
+  border-radius: 5px;
+  color: white;
+}
+
+.modalTitleAuthor {
+  margin-top: 10px;
+  font-weight: lighter;
+  font-size: 18px;
+}
+
+.modalBody {
+  margin-top: 10px;
+  background: white;
+  padding: 50px 25px;
+  border-radius: 10px;
+  font-size: 20px;
+}
+
+.modalCatchPhrase {
+  margin-top: 10px;
+  background: white;
+  padding: 10px 50px;
+  border-radius: 10px;
+  font-size: 20px;
+}
